@@ -1,0 +1,12 @@
+url: "https://apim.dlut.edu.cn/sems-tp-nup/electric/getElectricCharge"
+login_page: "https://sso.dlut.edu.cn/cas/login"
+times: 5
+threshold: 10
+student_id: "20xxxxxxxxx"
+password: "your_password"
+smtp:
+    host: "smtp.qq.com"
+    port: 587
+from_email: "your_qq@qq.com"
+from_email_password: "your_qq_authorization-code"
+to_email: "to_email"
