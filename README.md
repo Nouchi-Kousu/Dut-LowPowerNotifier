@@ -31,7 +31,9 @@ pip install -r requirements.txt
 
 ### Playwright Python
 
-首次使用可能会要求安装浏览器依赖，使用`playwright install`或参照控制台信息安装。
+使用`playwright install`安装浏览器依赖。
+
+若提示需按照系统依赖，参照控制台信息安装即可。
 
 ## 使用
 
