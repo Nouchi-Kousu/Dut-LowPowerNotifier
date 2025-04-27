@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 使用`playwright install`安装浏览器依赖。
 
-若提示需按照系统依赖，参照控制台信息安装即可。
+若提示需安装系统依赖，参照控制台信息安装即可。
 
 ## 使用
 
