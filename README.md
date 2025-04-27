@@ -1,8 +1,13 @@
 # Dut-LowPowerNotifier
 
-![Python](https://img.shields.io/badge/Pyrhon-3.13-blue)
-![Python](https://img.shields.io/badge/UV-0.6.4-d56ae1)
-![Python](https://img.shields.io/badge/License-MIT-9e2013)
+[![Python](https://img.shields.io/badge/Pyrhon-3.13-blue)](https://www.python.org/)
+[![UV](https://img.shields.io/badge/UV-0.6.4-d56ae1)](https://docs.astral.sh/uv/)
+[![License](https://img.shields.io/badge/License-MIT-9e2013)](https://github.com/Nouchi-Kousu/Dut-LowPowerNotifier/blob/main/LICENSE)
+
+[![playwright](https://img.shields.io/badge/Playwright-1.51.0-1a7e1f)](https://playwright.dev/python/docs/intro)
+[![pyyaml](https://img.shields.io/badge/PyYAML-6.0.2-8e010d)](https://pyyaml.org/)
+[![requests](https://img.shields.io/badge/Requests-2.32.3-004b6b)](https://requests.readthedocs.io/)
+
 
 Python脚本，用于自动获取大连理工大学寝室剩余电量并在低电量时发送邮件提醒。
 
@@ -24,7 +29,7 @@ uv sync
 pip install -r requirements.txt
 ```
 
-### PlayWright
+### Playwright Python
 
 首次使用可能会要求安装浏览器依赖，使用`playwright install`或参照控制台信息安装。
 
