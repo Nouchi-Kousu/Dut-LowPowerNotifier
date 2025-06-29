@@ -1,5 +1,7 @@
 # Dut-LowPowerNotifier
 
+由于大连理工大学为统一认证登录加入了2FA认证和人机验证，所以脚本暂时应该时不能用了。
+
 [![Python](https://img.shields.io/badge/Pyrhon-3.13-blue)](https://www.python.org/)
 [![UV](https://img.shields.io/badge/UV-0.6.4-d56ae1)](https://docs.astral.sh/uv/)
 [![License](https://img.shields.io/badge/License-MIT-9e2013)](https://github.com/Nouchi-Kousu/Dut-LowPowerNotifier/blob/main/LICENSE)
